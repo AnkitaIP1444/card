@@ -1,0 +1,9 @@
+@media screen and (min-width:480px){
+    .card{
+    border:solid 1px black;
+    /* margin: 0px 500px; */
+    border-radius: 20px;
+    box-shadow: 0 2px 8px black;
+   
+}
+}

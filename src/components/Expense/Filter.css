@@ -1,0 +1,14 @@
+.main{
+    padding: 20px;
+    background-color: rgb(239,239,239);
+   
+}
+h2{
+    color: rgb(2,47,117);
+}
+.dropd{
+    padding: 20px;
+    background-color: rgb(190,228,233);
+    border-radius: 10px;
+    margin: 10px;
+}

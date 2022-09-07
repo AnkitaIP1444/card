@@ -1,0 +1,30 @@
+.expense {
+    margin-top: 20px;
+    background-color: rgb(125,205,204);
+    text-align: center;
+    width: 500px;
+    border: solid 1px white;
+  
+}
+@media screen and (max-width:375px){
+
+.expense{
+    background-color:rgb(125,205,204);
+    /* padding: 40px; */
+    /* border-radius: 24px; */
+    border:solid 1px white;
+    
+    box-shadow: 0px 2px 8px rgb(2,47,117);
+    
+   
+}
+}
+@media screen and (min-width:375px){
+    .filter{
+   margin: 30px;
+    padding: 20px;
+    background-color: rgb(239,239,239); /* Red */
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+}
