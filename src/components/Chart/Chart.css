@@ -1,13 +1,13 @@
-@media screen and (min-width:375px){
-    .chart{
-    display: flex;
-    justify-content: space-between;
-     align-items: center;
-   
-    padding: 30px;
-    margin: 10px 20px;
-    border-radius: 12px;
-    background-color: white;
-    /* width: 70%; */
-}
+@media screen and (min-width:375px) {
+    .chart {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+
+        padding: 30px;
+        margin: 10px 20px;
+        border-radius: 12px;
+        background-color: white;
+        /* width: 70%; */
+    }
 }

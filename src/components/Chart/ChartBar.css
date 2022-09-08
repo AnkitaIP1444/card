@@ -11,14 +11,14 @@
     height: 100px;
     width: 100%;
     border: 1px solid black;
-    background-color: rgb(190,228,233);
+    background-color: #6A4CBD;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
 }
 .display_fill{
     width: 100%;
-    background-color: rgb(1,47,117);
+    background-color: red;
     transition: all 0.8s ease-in-out;
 }
 

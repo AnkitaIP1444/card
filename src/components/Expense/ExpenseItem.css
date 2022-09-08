@@ -32,7 +32,8 @@
 
 .item {
   border: solid 1px black;
-  background-color: rgb(190,228,233);
+  background-color: white;
+  color: #6A4CBD;
   font-size: 1rem;
   font-weight: bold;
   display: flex;

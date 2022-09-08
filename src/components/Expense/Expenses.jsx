@@ -30,7 +30,7 @@ const Expenses = (props) => {
     ))
   }
   return (
-    <div>
+  
 
 
 
@@ -49,7 +49,7 @@ const Expenses = (props) => {
 
         {/* </Card> */}
       </Card>
-    </div>
+    
   )
 }
 
