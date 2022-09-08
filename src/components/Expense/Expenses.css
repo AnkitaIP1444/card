@@ -12,7 +12,7 @@
 @media screen and (max-width:375px) {
 
     .expense {
-        background-color: rgb(125, 205, 204);
+        /* background-color: rgb(125, 205, 204); */
         /* padding: 40px; */
         /* border-radius: 24px; */
         border: solid 1px white;
