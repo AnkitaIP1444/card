@@ -16,6 +16,11 @@
     flex-direction: column;
     justify-content: flex-end;
 }
+@media (max-width: 375px) {
+    .bar_chart_in {
+      height: 20px;
+    }
+}
 .display_fill{
     width: 100%;
     background-color: red;
