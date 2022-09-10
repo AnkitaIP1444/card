@@ -13,7 +13,11 @@
 
 
 }
-
+@media (max-width: 375px) {
+  .expense-item {
+    display: block;
+  }
+}
 
 .expense-item__description {
   display: flex;
@@ -27,7 +31,7 @@
   font-size: 1rem;
   /* flex: 1; */
   margin: 0 1rem;
-  color: rgb(2, 47, 117);
+  color: rgb(2,47,117);
 
 }
 
@@ -35,14 +39,15 @@
 .item {
   border: solid 1px black;
   background-color: white;
-  color: #6A4CBD;
+  color: #6A4CBD  ;
   font-size: 1rem;
   font-weight: bold;
   display: flex;
-  margin: 5px;
+  /* color: white; */
+  /* box-shadow: 0 2px 8px black; */
   padding: 0.5rem;
   border-radius: 12px;
-
+  /* width: 50px; */
 }
 
 @media (max-width: 375px) {
